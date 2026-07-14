@@ -1,0 +1,40 @@
+## .NET / C# gitignore
+
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# User secrets (stored outside project by design, but belt-and-suspenders)
+secrets.json
+
+# Test results
+TestResults/
+*.trx
+*.coveragexml
+coverage/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
