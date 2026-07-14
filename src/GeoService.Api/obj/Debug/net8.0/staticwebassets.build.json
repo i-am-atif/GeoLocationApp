@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZBJ4BZeI/ygf6Grg4FCHpYIs46qN7430aRwXWW6jedg=",
+  "Source": "GeoService.Api",
+  "BasePath": "_content/GeoService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GeoService.Api.props" />
+</Project>

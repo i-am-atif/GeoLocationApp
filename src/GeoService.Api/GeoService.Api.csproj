@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>GeoService.Api</RootNamespace>
+    <UserSecretsId>GeoService-Dev-Secrets</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\GeoService.Core\GeoService.Core.csproj" />
+    <ProjectReference Include="..\..\src\GeoService.Infrastructure\GeoService.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
